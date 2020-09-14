@@ -17,14 +17,14 @@ The difference-in-differences was performed with 2 groups (youths, adults) acros
 
 # Exploratory Data Analysis
 For most countries, there is a sharp rise in unemployment in early 2020. It seems that youth unemployment is already high before the pandemic and increased substantially in early 2020.
-<img src="images/unemployment_by_country.png?raw=true"><br>
+<img src="images/unemployment_by_country.png"><br>
 On an aggregate level, youth unemployment is significantly higher than adult and total unemployment. All unemployment rates increased in early 2020.
-<img src="images/unemployment_by_age.png?raw=true"><br>
+<img src="images/unemployment_by_age.png"><br>
 There does not seem to be any visually apparent difference in total unemployment rate between males and females. Male youths are slightly more likely to be unemployed vis-a-vis female youths but the gap seems to have narrowed after the onset of the pandemic.
-<img src="images/unemployment_by_gender.png?raw=true"><br>
+<img src="images/unemployment_by_gender.png"><br>
 
 # Results of Difference-in-Differences Analysis
-<img src="images/diff_in_diff_results.png?raw=true"><br>
+<img src="images/diff_in_diff_results.png"><br>
 I conducted a 2-tailed hypothesis test. From the results of the above regression, we observe that the coefficient on youths is statistically significant and positive at 0.1% level of confidence. This is congruent with our existing understanding that youths in the European Union face significantly higher unemployment rates.
 
 While the DiD-coefficient is positive, it is not statistically significant. This implies that there is no evidence to suggest that youths in Europe are disproportionately affected by the ongoing global pandemic, at least based on data from the select group of countries and time-period. It might be useful to continue monitoring the numbers for the months to come to arrive at a more conclusive result.
