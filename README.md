@@ -17,11 +17,11 @@ The difference-in-differences was performed with 2 groups (youths, adults) acros
 
 # Exploratory Data Analysis
 For most countries, there is a sharp rise in unemployment in early 2020. It seems that youth unemployment is already high before the pandemic and increased substantially in early 2020.
-<img src="images/unemployment_by_country.png" width="40%"><br>
+<br><img src="images/unemployment_by_country.png" width="40%"><br>
 On an aggregate level, youth unemployment is significantly higher than adult and total unemployment. All unemployment rates increased in early 2020.
-<img src="images/unemployment_by_age.png" width="40%"><br>
+<br><img src="images/unemployment_by_age.png" width="40%"><br>
 There does not seem to be any visually apparent difference in total unemployment rate between males and females. Male youths are slightly more likely to be unemployed vis-a-vis female youths but the gap seems to have narrowed after the onset of the pandemic.
-<img src="images/unemployment_by_gender.png" width="40%"><br>
+<br><img src="images/unemployment_by_gender.png" width="40%"><br>
 
 # Results of Difference-in-Differences Analysis
 <img src="images/diff_in_diff_results.png" width="40%"><br>
