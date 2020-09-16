@@ -16,7 +16,7 @@ This personal project is meaningful for two reasons. As an economics major, crun
 The difference-in-differences was performed with 2 groups (youths, adults) across 2 time periods (pre-Mar 2020, post-Mar 2020)
 
 # Exploratory Data Analysis
-For most countries, there is a sharp rise in unemployment in early 2020. It seems that youth unemployment is already high before the pandemic and increased substantially in early 2020.
+For the few countries shown below, there is a sharp rise in unemployment in early 2020. It seems that youth unemployment is already high before the pandemic and increased substantially in early 2020.
 <br><img src="images/unemployment_by_country.png" width="60%"><br>
 On an aggregate level, youth unemployment is significantly higher than adult and total unemployment. All unemployment rates increased in early 2020.
 <br><img src="images/unemployment_by_age.png" width="60%"><br>
